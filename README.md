@@ -1,4 +1,2 @@
 # LaboGit
-Test ajout texte dans le fichier ReadMe
-J'essaie de remettre un nouveau texte
-Sur une nouvelle ligne
+Essai de Cancel and Replace
